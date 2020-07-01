@@ -1,0 +1,4 @@
+﻿  ITLA.cpp
+D:\WorkProject\614项目\GOCA\LD激光器dll封装\ITLA\ITLA\ITLA.h(4,1): warning C4005: “DLL_EXPORT”: 宏重定义
+D:\WorkProject\614项目\GOCA\LD激光器dll封装\ITLA\ITLA\ITLA.cpp(8): message : 参见“DLL_EXPORT”的前一个定义
+  ITLA.vcxproj -> D:\WorkProject\614项目\GOCA\LD激光器dll封装\ITLA\Debug\ITLA.dll
